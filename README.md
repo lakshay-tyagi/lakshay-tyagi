@@ -35,4 +35,4 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshay-tyagi&show_icons=true&locale=en&layout=compact" alt="lakshay-tyagi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshay-tyagi&show_icons=true&locale=en" alt="lakshay-tyagi" /></p>
+
