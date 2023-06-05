@@ -20,7 +20,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 - 📫 How to reach me **itzlakshaytyagi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12QwGejMeK__IhQf8G8w5yJUeguD-5cpX/view](https://drive.google.com/file/d/12QwGejMeK__IhQf8G8w5yJUeguD-5cpX/view)
+- 📄 Know about my experiences [https://lakshay-tyagi.github.io/](https://lakshay-tyagi.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
