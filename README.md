@@ -10,7 +10,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** pursuing 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Active Noise cancellation project**
+- 🔭 I’m currently working on **MediLink One Health One Card**
 
 - 🌱 I’m currently learning **C++**
 
